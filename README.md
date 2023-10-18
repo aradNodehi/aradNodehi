@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aradNodehi
-- 👀 I’m interested in Artificial intelligence in medicine and pharmacy 
+- 👀 I’m interested in Artificial intelligence in medicine and Pharmacy 
 - 🌱 I’m currently learning Python and machine learning
 - 💞️ I’m looking to collaborate on anything related to my major study which is Pharmacy
 - 📫 How to reach me: pourahmadarad@gmail.com
